@@ -1,4 +1,5 @@
 projects/p2/part1/Anaconda3-2024.10-1-Linux-x86_64.sh
+projects/p2/part1/calibrator_source_masked.fil
 projects/p2/data/blank_sky.fil
 projects/p2/data/blank_sky_masked.fil
 projects/p2/data/blank_sky_masked_f1_t32.fil
@@ -10,3 +11,17 @@ projects/p2/part2/pulsardata_masked_f1_t100.fil
 projects/p2/part2/pulsardata_masked_f1_t128.fil
 projects/p2/part2/pulsardata_masked_f1_t150.fil
 projects/p2/part2/pulsardata_masked.fil
+projects/p2/part3/blank_sky_masked_f1_t32.fil
+projects/p2/part3/blank_sky_masked.fil
+projects/p2/part3/blank_sky.fil
+projects/p2/part3/data_261084068_masked_f1_t32.fil
+projects/p2/part3/data_261084068_masked.fil
+projects/p2/part3/data_261084068.fil
+projects/p2/part3/data_w_injected_sig_masked_f1_t32.fil
+projects/p2/part3/data_w_injected_sig_masked.fil
+projects/p2/part3/data_w_injected_sig.fil
+projects/p2/part3/blank_sky.fil:Zone.Identifier
+projects/p2/part3/data_261084068.fil:Zone.Identifier
+projects/p2/part3/data_w_injected_sig.fil:Zone.Identifier
+projects/p2/part3/negative_DM.ipynb:Zone.Identifier
+projects/p2/overview.ipynb:Zone.Identifier
